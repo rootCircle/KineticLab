@@ -25,3 +25,5 @@ height="300">](#Video)
      alt="Physics Lab | Made Using Processing JAVA | Mechanics Simulation"
      height="250">](https://www.youtube.com/watch?v=r9LOCkXTDTQ)
 
+## Credits
+I drew heavy inspiration from the project "Bouncing Balls" by Daniel Shiffman. One can find this projects in Examples>Topics>Simulate>Vectors in PDE.
