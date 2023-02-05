@@ -16,7 +16,7 @@ You will need a PDE to run this code and/or to compile it to distribute it. It i
 You can get PDE [here](https://www.processing.org/download).
 
 ## Preview
-[<img src="https://raw.githubusercontent.com/Microsoftlabs/KineticLab/main/src/1.png"
+[<img src="https://raw.githubusercontent.com/rootCircle/KineticLab/main/src/1.png"
 alt="Screenshot"
 height="300">](#Video)
 
